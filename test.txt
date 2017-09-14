@@ -9,4 +9,8 @@ master branch
 if you commit master branch,
 then the copied branch will be
 useless.
+<<<<<<< HEAD
+>>>>>>> cherry
+=======
+?
 >>>>>>> cherry
