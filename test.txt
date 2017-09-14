@@ -1,6 +1,2 @@
-test
-test2
-if you commit master branch,
-then the copied branch will be
-useless.
-?
+if you update the both branches,
+then an error will be occured.
