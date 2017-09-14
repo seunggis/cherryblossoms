@@ -1,6 +1,12 @@
 test
 test2
+<<<<<<< HEAD
 test3
 cherry
 cherry branch
 master branch
+=======
+if you commit master branch,
+then the copied branch will be
+useless.
+>>>>>>> cherry
